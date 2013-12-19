@@ -98,7 +98,7 @@ For the entire populace, schooling aid of RM100 per child and the RM250 1Malaysi
 
 In the next FIVE years, we commit to:
 
-- Gradually increasing BR1M up to RM1,200 for households and RM600 for singles while maintaining it on an annual basis;
+- Gradually increasing BR1M up to RM1,200 for households and RM600 for singles while maintaining it on an annual basis; #1
 
 - Increasing 1Malaysia Book Vouchers to RM300 & Schooling Aid to RM150;
 
